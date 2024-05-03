@@ -1,10 +1,3 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso Santander 2024 - Fundamentos de IA para Devs da [DIO](https://dio.me).
